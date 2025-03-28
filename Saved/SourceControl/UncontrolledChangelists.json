@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/UI/BP/Settings_Menu.uasset",
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/UI/Texte/1/7zECAEAC59D/CaviarDreams.uasset",
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/UI/Texte/1/7zECAEAC59D/CaviarDreams_Font.uasset",
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/UI/BP/Main_Menu.uasset",
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/UI/BP/WP_Cursor.uasset",
+				"C:/Users/GAME2/Documents/GitHub/Lastrecord/Content/Maps/MAINmenu.umap"
+			]
+		}
+	]
+}
